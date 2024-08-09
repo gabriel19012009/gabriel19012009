@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...   educacao fisica
 - 📫 How to reach me ...   indo na minha casa
 - 😄 Pronouns: ...  ele/dele
-- ⚡ Fun fact: ...   engrasado
+- ⚡ Fun fact: ...   engraçado
 
 <!---
 gabriel19012009/gabriel19012009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
